@@ -1,2 +1,2 @@
 # EPC
-Extraction de points caractèristiques
+Extraction de points caractéristiques
