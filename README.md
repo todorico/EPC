@@ -17,9 +17,13 @@ On peut comparer les histogrammes pour savoir si les images sont proches (ou pas
 Pour ça on peut faie une spécification d'histogramme
 
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.405.9932&rep=rep1&type=pdf
+
 FAST : https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_fast/py_fast.html
+
 BRIEF : https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_brief/py_brief.html
 https://team.inria.fr/steep/files/2015/03/c2_points_4pp.pdf
 http://www.lgi2p.mines-ales.fr/~montesin/CoursPDF/corners_2010_04_15.pdf
 
 SURF :https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_surf_intro/py_surf_intro.html
+
+SIFT : https://www.univ-reims.fr/site/laboratoire-labellis/centre-de-recherche-en-sciences-et-technologies-de-l-information-et-de-la-communication-crestic/groupes-de-recherche/signal-image-et-connaissance-sic/gallery_files/site/1/1697/3184/22317/32697.pdf
