@@ -27,3 +27,6 @@ http://www.lgi2p.mines-ales.fr/~montesin/CoursPDF/corners_2010_04_15.pdf
 SURF :https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_surf_intro/py_surf_intro.html
 
 SIFT : https://www.univ-reims.fr/site/laboratoire-labellis/centre-de-recherche-en-sciences-et-technologies-de-l-information-et-de-la-communication-crestic/groupes-de-recherche/signal-image-et-connaissance-sic/gallery_files/site/1/1697/3184/22317/32697.pdf
+
+
+Depth-map : https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_calib3d/py_depthmap/py_depthmap.html?highlight=reconstruction
