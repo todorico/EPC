@@ -1,4 +1,3 @@
-
 #include <opencv2/core.hpp>
 #include <opencv2/sfm.hpp>
 #include <opencv2/viz.hpp>
